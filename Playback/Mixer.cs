@@ -1,5 +1,5 @@
 ﻿using GotaSoundIO.Sound.Playback;
-using NAudio.CoreAudioApi;
+using GotaSoundIO.IO.Backend.WASAPI;
 using NAudio.Wave;
 using System;
 using System.Collections.Generic;
